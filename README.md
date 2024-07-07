@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 👋 I'm Prakash 
 
+I am a Tech Enthusiast with over 1 year of experience in Software engineering.
+
+
+📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/om-prakash-reddy" target="blank"><img align="center"src="https://github.com/anilsakr/anilsakr/blob/ef5b7cc207bfe208f4cdbfce51feb50915e3dd5f/assets/LI-In.png" alt="om-prakash-reddy" height="30" width="35" /></a>
 <!--
 **mromprakash/mromprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
